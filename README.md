@@ -4,6 +4,8 @@
 **Author:** Дамзин Даниэль Дмитриевич  
 **Board:** ES3C28P (ESP32-S3)
 
+![](photo_and_video/filesystem.jpg)
+
 Custom firmware that turns the ES3C28P into a compact handheld device with a full touch UI.
 
 ## Features
