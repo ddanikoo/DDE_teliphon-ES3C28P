@@ -1,7 +1,6 @@
 # DDE_telifon
 
 **Version:** 0.9.0  
-**Author:** Дамзин Даниэль Дмитриевич  
 **Board:** ES3C28P (ESP32-S3)
 
 ![](photo_and_video/filesystem.jpg)
@@ -54,7 +53,6 @@ See `board_config.h` for pin definitions.
 # DDE_telifon
 
 **Версия:** 0.9.0  
-**Автор:** Дамзин Даниэль Дмитриевич  
 **Плата:** ES3C28P (ESP32-S3)
 
 Прошивка, превращающая ES3C28P в компактное сенсорное устройство с полноценным интерфейсом.
